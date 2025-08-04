@@ -81,4 +81,4 @@ This project demonstrates how Excel can be used to create powerful, interactive 
 
 ## 📸 Screenshot
 
-![Dashboard Screenshot]
+![Dashboard Screenshot](https://github.com/hrutikasawant/Hospital_Emergency_Room_Dashboard/blob/main/DashBoard%20(2).png)
